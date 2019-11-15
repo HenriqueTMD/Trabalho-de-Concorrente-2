@@ -12,10 +12,10 @@ package sequencial;
 public class Main {
     
     public static void main(String args[]){
-        
+
         Interface interface1 = new Interface();
         interface1.setLocationRelativeTo(null);
-        interface1.setVisible(true);  
-        
+        interface1.setVisible(true);
+ 
     }    
 }
